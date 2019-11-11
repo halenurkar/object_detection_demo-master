@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plastic</folder>
+	<filename>plastic34.jpg</filename>
+	<path>C:\Users\halenur\Desktop\deeplearning\dataset-resized\plastic\plastic34.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>3</ymin>
+			<xmax>380</xmax>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+</annotation>

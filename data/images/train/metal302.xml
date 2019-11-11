@@ -1,0 +1,26 @@
+<annotation>
+	<folder>metal</folder>
+	<filename>metal302.jpg</filename>
+	<path>C:\Users\halenur\Desktop\deeplearning\dataset-resized\metal\metal302.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>metal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>28</ymin>
+			<xmax>385</xmax>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+</annotation>

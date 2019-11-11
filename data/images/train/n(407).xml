@@ -1,0 +1,26 @@
+<annotation>
+	<folder>negatifPhoto</folder>
+	<filename>n(407).JPG</filename>
+	<path>C:\Users\halenur\Desktop\yeni\negatifPhoto\n(407).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>828</width>
+		<height>1472</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>copdegil</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>222</ymin>
+			<xmax>828</xmax>
+			<ymax>1186</ymax>
+		</bndbox>
+	</object>
+</annotation>
